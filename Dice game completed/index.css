@@ -1,0 +1,19 @@
+.tag{
+    text-align: center;
+    color: aquamarine;
+    font-size: 5rem;
+    font-family: 'Dancing Script', cursive;
+    font-size: 100px;
+}
+.body{
+    background-color: grey;
+}
+.player{
+    padding: 50px;
+    font-family: 'Merriweather', serif;
+}
+.image{
+    height: 200px;
+    padding: 20px;
+    
+}
